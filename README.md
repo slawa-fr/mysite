@@ -1,3 +1,3 @@
 # Мой сайт на GitHub
-## Сделан по обрзцу этого видео:
+## Сделан по примеру из этого видео:
 ## https://www.youtube.com/watch?v=TLNJnxDdnhs
